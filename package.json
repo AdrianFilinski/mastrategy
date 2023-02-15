@@ -1,0 +1,24 @@
+{
+	"name": "mastrategy",
+	"version": "1.0.0",
+	"description": "��#\u0000 \u0000m\u0000a\u0000s\u0000t\u0000r\u0000a\u0000t\u0000e\u0000g\u0000y\u0000\r\u0000 \u0000",
+	"main": "script.js",
+	"scripts": {
+		"start": "eleventy --serve",
+		"build": "eleventy"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/AdrianFilinski/mastrategy.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/AdrianFilinski/mastrategy/issues"
+	},
+	"homepage": "https://github.com/AdrianFilinski/mastrategy#readme",
+	"devDependencies": {
+		"@11ty/eleventy": "^2.0.0"
+	}
+}
